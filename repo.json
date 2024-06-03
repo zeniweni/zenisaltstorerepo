@@ -4,7 +4,7 @@
     "apps": [
         {
             "beta": false,
-            "name": "uYou",
+            "name": "uYouPlus",
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "MiRO",
             "subtitle": "The Enhanced YouTube",
@@ -28,15 +28,20 @@
             "subtitle": "Add plugins and themes to Discord",
             "version": "19.08.2",
             "tintColor": "#6D00FF",
+            "size": "",
             "versionDate": "2024-05-25",
             "versionDescription": "Updated Discord to 231.1",
-            "downloadURL": "INSERT IPA HERE.",
+            "downloadURL": "https://repo.zeniweni.dev/Enmity.ipa",
             "screenshotURLs": [
-                "we need screenshots.................. :("
+                "https://imgs.zeniweni.dev/repo_screenshots/enmity_chat.png",
+                "https://imgs.zeniweni.dev/repo_screenshots/enmity_plugins.png",
+                "https://imgs.zeniweni.dev/repo_screenshots/enmity_profile.png",
+                "https://imgs.zeniweni.dev/repo_screenshots/enmity_settings.png"
+                
             ],
             
             "localizedDescription": "Add plugins and themes to Discord",
-            "iconURL": "https://imgs.zeniweni.dev/repo_icons/insertenmityicon.png"
+            "iconURL": "https://imgs.zeniweni.dev/repo_icons/Enmity.png"
         }
     ]
 }
