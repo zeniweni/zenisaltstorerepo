@@ -11,10 +11,11 @@
             "version": "19.08.2",
             "versionDate": "2024-05-01T17:12:00+01:00",
             "versionDescription": "Updated to 3.0.3",
-            "downloadURL": "https://repo.zeniweni.dev/uYouPlus.ipa",
+            "downloadURL": "https://repo.zeniweni.dev/uYou.ipa",
             "localizedDescription": "uYouPlus is a modified YouTube IPA that enhances your YouTube experience.",
             "iconURL": "https://imgs.zeniweni.dev/repo_icons/YT_icon.png",
             "tintColor": "#9b54fd",
+            "size": 126194273,
             "screenshotURLs": [
                 "https://imgs.zeniweni.dev/repo_screenshots/uYou.png"
             ]
@@ -25,8 +26,9 @@
             "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "The Enmity Team",
             "subtitle": "Add plugins and themes to Discord",
-            "version": "231.1",
+            "version": "19.08.2",
             "tintColor": "#6D00FF",
+            "size": 104499137,
             "versionDate": "2024-05-25",
             "versionDescription": "Updated Discord to 231.1",
             "downloadURL": "https://repo.zeniweni.dev/Enmity.ipa",
